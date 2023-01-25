@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dalgos
+dalgos.so
+dalgos.dylib
+dalgos.dll
+dalgos.a
+dalgos.lib
+dalgos-test-*
+*.exe
+*.o
+*.obj
+*.lst
